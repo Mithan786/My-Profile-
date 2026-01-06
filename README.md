@@ -59,10 +59,3 @@ This project is built with:
 
 Simply open https://695cd985aaec2a8a9750c995--genuine-piroshki-778a49.netlify.app/ and click on Share -> Publish.
 
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
